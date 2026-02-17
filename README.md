@@ -1,4 +1,4 @@
-🎬 Movie Meta Data Dashboard — Power BI Project
+🎬 Movie Meta Data Analysis — Power BI Project
 _________________________________________________________________________________________________________________________
 
 📊 Project Overview
