@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 📊 Project Overview
 
-This project presents an interactive Movie Meta Data  built using Miceosoft Excel and Power BI to analyze movie industry data.
+This project presents an interactive Movie Meta Data  built using Microsoft Excel and Power BI to analyze movie industry data.
 The dashboard provides insights into movie performance, financial metrics, genres, ratings, and trends over time.
 _________________________________________________________________________________________________________________________
 
